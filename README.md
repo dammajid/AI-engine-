@@ -80,3 +80,5 @@ The AI analyzes a combination of technical indicators to generate trading signal
 
 📜 License
 MIT © dammajid
+
+https://github.com/dammajid/Tools-service-OP
